@@ -1,2 +1,2 @@
 # Git-demo
-This is my frist tutotial
+This is my frist git Repositary
